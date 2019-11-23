@@ -9,6 +9,8 @@ nav{
 border:none;
 outline: 0;
 position: fixed;
+box-shadow: none;
+webkit-box-shadow:none;
 }
 .hero {
     background-image: url("img/jeremy-thomas-4dpAqfTbvKA-unsplash.jpg");
